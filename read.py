@@ -17,6 +17,8 @@ import os.path
 import keyboard
 import time
 
+# hola
+
 # Create object for parsing command-line options
 parser = argparse.ArgumentParser(description="Read recorded bag file and display depth stream in jet colormap.\
                                 Remember to change the stream fps and format to match the recorded.")
